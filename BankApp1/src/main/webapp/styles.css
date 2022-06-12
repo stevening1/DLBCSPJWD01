@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/*Adds image as page background and makes sure that the image covers the whole page */
+body {
+	background-image: url('https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_1280.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed; 
+  	background-size: cover;
+}
+/*Centers text, give text inside container Open Sans font, and a grey background color */
+div {
+	text-align: center;
+	font-family: 'Open Sans';
+	background-color: #E8E8E8;
+	border-radius: 25px;
+	padding: 25px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+/*Centers tables*/
+table {
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.transactionform {
+	text-align: left;
+}
+
