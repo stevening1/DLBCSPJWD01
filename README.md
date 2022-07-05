@@ -4,7 +4,9 @@ Installation of Tomcat is required to run the application. Go to BankApp1/src/ma
 
 To start the application, run the index.html file.
 
-See the picture below for how to structure the application.
+See the picture below for how to structure the application. 
+
+If you do not wish to register, use the following login credentials: username = Steven, password = Ing
 
 <img width="323" alt="Screenshot 2022-07-02 at 13 37 20" src="https://user-images.githubusercontent.com/75846745/176999282-14dfb080-1133-4c57-b56f-77f4510b2929.png">
 
